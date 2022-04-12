@@ -12,7 +12,7 @@ $f3 = Base::instance();
 
 //Define a default route
 $f3->route('GET /', function () {
-    echo '<h1>Hello, world!</h1>';
+    echo '<h1>Hello, world!!</h1>';
     }
 );
 
