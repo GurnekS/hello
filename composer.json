@@ -1,0 +1,12 @@
+{
+  "name": "gsingh/328/hello",
+  "authors": [
+    {
+      "name": "Gurnek Singh",
+      "email": "gsingh@greenriverdev.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
